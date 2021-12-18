@@ -1,0 +1,112 @@
+h1{
+	color:black;
+	text-align: center;
+	text-shadow:6px 6px 6px black;
+	border: 3px blue solid;
+	border-radius: 20px / 10px;
+	box-shadow: 7px 7px 7px blue;
+}
+
+img[scr="nk-yan"]{
+	width: 10px;
+}
+
+img[src="ulrich10.jpg"]{
+	float: right;
+	width:9%;
+	height: 100px;
+}
+img[src="ulrich7.jpg"]{
+	width: 100%;
+	height: 400px;
+	padding: 10px 5px;
+	border-top: 3px black solid;
+}
+
+}
+
+.yan-1{
+	color: #fff;
+	text-decoration:underline;
+}
+
+body{
+	font-family: 'Trebuchet MS', Arial, sans-serif;
+	background-image:url("ulrich8.jpg");
+	text-align: justify;
+}
+a:hover{
+	color: red;
+}
+
+a{
+	text-decoration: none;
+}
+
+a:visited{
+	color: #888888;
+}
+
+.yan-2{
+	padding: 15px 5px;
+	border: 2px red solid;
+	margin: 0em 5px;
+	border-bottom: 6px blue solid;
+}
+
+.yan-2:first-letter{
+	font-size: 400%;
+	font-weight: bold;
+}
+
+.yan-3{
+	padding-top: 10px;
+	margin-left: 0px;
+	border-bottom: 6px blue solid;
+}
+img[src="ulrich5.jpg"]{
+	float: left;
+	margin: 0px 5px;
+}
+
+td{
+	border: 4px solid black;
+}
+
+th{
+	border: 4px black solid;
+}
+table{
+	border-collapse: collapse;
+}
+
+.button{
+	background-color: yellow;
+	padding: 5px 5px;
+	border: 2px pink solid;
+
+}
+
+.nk-yan{
+	background-image: url("ulrich1.jpeg");
+}
+
+.fix-me{
+	position: fixed;
+	top: 200px;
+}
+
+.book-1{
+	background-image: url("ulrich4.jpg");
+	color: #fff;
+}
+
+.dance-1{
+	border-bottom: 6px blue solid;
+}
+
+img[src="ulrich3.jpg"]{
+	width: 90px;
+	margin-bottom: 0px;
+	margin-left: 10px;
+}
